@@ -1,0 +1,7 @@
+.row {
+    display: flex;
+}
+
+.wp-block-image {
+    flex: 50%;
+}
